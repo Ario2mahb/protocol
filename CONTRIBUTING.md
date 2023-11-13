@@ -2,7 +2,7 @@
 
 Thank you for investing your time towards contributing to the Rarible Protocol!
 
-[docs.rarible.org](https://docs.rarible.org/) — documentation of Rarible Protocol.
+[docs.rarible.org](https:/cs.rarible.org/) — documentation of Rarible Protocol.
 
 ## Getting Started
 
